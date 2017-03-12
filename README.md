@@ -4,12 +4,8 @@ VR project for google cardboard I built for the Udacity VR Nano Degree
 - author: MoniGarr 
 
 - Course 3 Project
-- date: Feb 10th 2017
+- date: Feb 12th 2017
 - https://github.com/monigarr/VRNanoDegreeProject3Maze
-
-- Course 2 Project
-- date: Feb 5th 2017
-- https://github.com/monigarr/VRNanoDegree
 
 # Installation
 Open, build and run this project with Unity 5.5.0f3 (64-bit)
@@ -28,6 +24,7 @@ Open, build and run this project with Unity 5.5.0f3 (64-bit)
 - coins will animate and disappear when they are collected /clicked on.
 
 # Issues
+3/12/2017 Issues Corrected! Submitted the wrong unity project - it had old errors with coin collectibles. All is corrected now.
 3/4/2017 No Issues. This project is tested and verified complete. Submitted to instructor for code review.
 3/3/2017 received online help for learning how to script the door animation.
 
